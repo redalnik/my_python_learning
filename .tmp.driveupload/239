@@ -1,9 +1,0 @@
-0000000000000000000000000000000000000000 ba86ec31b176924c5eca2a48ca43f6b27c49206a Александр <redalnik@gmail.com> 1747679008 +0300	clone: from https://github.com/redalnik/my_python_learning.git
-ba86ec31b176924c5eca2a48ca43f6b27c49206a d159412a6c9a1305c47b37a33327345baf418cbd Александр <redalnik@gmail.com> 1747679472 +0300	commit: Create first_lesson.py
-d159412a6c9a1305c47b37a33327345baf418cbd 36858a7dc0ac453f0981b437995f2af0dc21d209 Александр <redalnik@gmail.com> 1747679759 +0300	commit: Update README.md
-36858a7dc0ac453f0981b437995f2af0dc21d209 c49ba321910a0bcdf0d8839621b8e88f2a3dfbd7 Александр <redalnik@gmail.com> 1747680100 +0300	commit: Create second_lesson.py
-c49ba321910a0bcdf0d8839621b8e88f2a3dfbd7 4dcc837da96263dba7e410f7885cdd55ef5d91bc Александр <redalnik@gmail.com> 1747920948 +0300	pull --ff --recurse-submodules --progress origin: Fast-forward
-4dcc837da96263dba7e410f7885cdd55ef5d91bc dece96459d42bd901af6d59e31b206e4dd3c5d8c Александр <redalnik@gmail.com> 1747921537 +0300	pull --ff --recurse-submodules --progress origin: Fast-forward
-dece96459d42bd901af6d59e31b206e4dd3c5d8c a455c4825c9955c7a04d0d42bb3c198d2eac14c7 Александр <redalnik@gmail.com> 1747923170 +0300	commit: main
-a455c4825c9955c7a04d0d42bb3c198d2eac14c7 43f1a905dea6388fcd3505ddd5c4b06801a514ff Александр <redalnik@gmail.com> 1747923184 +0300	commit: main
-43f1a905dea6388fcd3505ddd5c4b06801a514ff 0b5497779559f9277552ce04f58fb0a38f7c37d8 Александр <redalnik@gmail.com> 1747923191 +0300	commit: main
